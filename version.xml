@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<version>
-  <runMonitor>1.0.0.2</runMonitor>
-  <ShemaControls>1.0.0.2</ShemaControls>
-  <NModbus4>1.0.0.0</NModbus4>
-<version>
+<versions>
+  <runMonitor>"1.0.0.2"</runMonitor>
+  <ShemaControls>"1.0.0.2"</ShemaControls>
+  <NModbus4>"1.0.0.0"</NModbus4>
+<versions>
