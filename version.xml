@@ -1,7 +1,7 @@
 <versions>
-  <runMonitor>1.0.0.4</runMonitor>
-  <ShemaControls>1.0.0.4</ShemaControls>
-  <NModbus4>1.0.0.1</NModbus4>
-  <zipUpdate>1.0.0.0</zipUpdate>
+  <runMonitor>1.0.0.5</runMonitor>
+  <ShemaControls>1.0.0.5</ShemaControls>
+  <NModbus4>1.0.0.2</NModbus4>
+  <zipUpdate>1.0.0.1</zipUpdate>
 </versions>
 
